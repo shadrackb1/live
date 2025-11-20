@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SimLive - Live Stream Simulator",
+  "description": "A realistic social media live stream simulation tool for educational and demonstration purposes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
