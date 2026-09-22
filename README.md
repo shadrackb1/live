@@ -1,10 +1,12 @@
-﻿# live
+# SimLive
 
-SimLive
+Live stream simulator for demos and teaching.
+
+**Status:** shipped demo
 
 ## Stack
 
-react Â· vite Â· typescript Â· node
+React, TypeScript, Vite
 
 ## Run locally
 
@@ -13,4 +15,4 @@ react Â· vite Â· typescript Â· node
 
 ## License
 
-Private / all rights reserved.
+All rights reserved.
